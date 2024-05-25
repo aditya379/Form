@@ -23,7 +23,7 @@ form{
     display: flex;
     justify-content: space-between;
     flex-direction: column;
-    height: 530px;
+    height: 550px;
     color: rgb(45, 45, 45);
     padding: 20px;
     gap: 15px;
